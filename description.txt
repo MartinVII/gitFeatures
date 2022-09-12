@@ -1,8 +1,4 @@
 This is first line of code.
 This is second line of code.
 This is third line of code.
-<<<<<<< HEAD
-This is fifth line of code.
-=======
 This is fourth line of code.
->>>>>>> 0801f373c5d6f9e405819189f2947b293b3f2610
