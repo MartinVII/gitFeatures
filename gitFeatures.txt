@@ -22,5 +22,5 @@ git branch -a --> displays list of all fetched remote branches
 git checkout <name> --> switches between branches
 
 ---------------------------------------------------
-Bla, bla, bla, bla...
+git merge <name of branch> --> merges branch with main branch (must be switched to main branch)
 ---------------------------------------------------
