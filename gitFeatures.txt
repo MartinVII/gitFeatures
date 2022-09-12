@@ -10,3 +10,6 @@ git show HEAD~3 --> 3 commits before HEAD
 git tag -a <unique name> -m "<description>" --> marks last commit with unique name
 git show ver1 --> calling tagged commit by referencing to created tag name
 
+--------------------------------------------------------------------
+bla bla bla...
+--------------------------------------------------------------------
