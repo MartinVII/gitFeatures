@@ -11,5 +11,5 @@ git tag -a <unique name> -m "<description>" --> marks last commit with unique na
 git show ver1 --> calling tagged commit by referencing to created tag name
 
 --------------------------------------------------------------------
-bla bla bla...
+bla bla bla bla...
 --------------------------------------------------------------------
