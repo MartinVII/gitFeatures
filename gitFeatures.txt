@@ -1,0 +1,12 @@
+git log --> history of commits
+git log -n 3 --> show last three commits
+
+git show <unique number of commit from git log> --> show details of selected commit
+git dif <unique number of one commit> <unique number of another commit> --> show differences between two commits
+
+git show HEAD --> show commit of the currently checked out branch
+git show HEAD~3 --> 3 commits before HEAD
+
+git tag -a <unique name> -m "<description>" --> marks last commit with unique name
+git show ver1 --> calling tagged commit by referencing to created tag name
+
