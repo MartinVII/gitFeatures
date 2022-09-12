@@ -19,4 +19,12 @@ git branch -D <name> --> deletes branch regardless of current state
 git branch -m <name> --> renames current branch to <name>
 git branch -a --> displays list of all fetched remote branches
 
+<<<<<<< HEAD
 git checkout <name> --> switches between branches
+=======
+git checkout <name> --> switches between branches
+
+---------------------------------------------------
+git merge <name of branch> --> merges branch with main branch (must be switched to main branch)
+---------------------------------------------------
+>>>>>>> feature/f1
